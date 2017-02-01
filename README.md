@@ -7,8 +7,10 @@ The docker-compose.yml file contains the services which will depoly our complete
 
 Usage:
 
-$ git clone 
+$ git clone
+
 $ cd simple-python-app 
+
 $ docker-compose up
 
 After its finished, open your browser and type in 0.0.0.0:5000
